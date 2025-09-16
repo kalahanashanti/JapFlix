@@ -1,0 +1,31 @@
+.img-card-fit {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
+.img-cont {
+    height: 200px;
+    overflow: hidden;
+    background-color: beige;
+}
+
+.card-content{
+    height: 150px;
+    overflow: auto;
+}
+
+main {
+    min-height: calc(100vh - 100px);
+  }
+
+.checked{
+    color: orange;
+}
+
+.offcanvas-top{
+    height: fit-content;
+}
+/* Result list dark item */
+.list-group-item { background-color: #1b1b1b; color: #e6e6e6; border-color:#2a2a2a; }
+.list-group-item-action:hover{ background-color:#2a2a2a; }
