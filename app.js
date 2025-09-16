@@ -1,7 +1,3 @@
-
-// JAPFLIX - búsqueda y visualización de películas
-// Requisitos: Bootstrap 5 (bundle), FontAwesome 4.x (para estrellas)
-
 (() => {
   const URL = "https://japceibal.github.io/japflix_api/movies-data.json";
 
